@@ -12,7 +12,7 @@
 - ✨ Interests: Apart from Tech, I love to listen songs / cooking / gardening...
 
 
-# `Languages & Tools:`
+## `Languages & Tools:`
 <img align="left" alt="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-visual-studio-code-2019.svg" />
 <img align="left" alt="Jupyter Notebook" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/jupyter_logo_icon_169452.svg" />
 <img align="left" alt="Anaconda" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
