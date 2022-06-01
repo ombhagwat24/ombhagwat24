@@ -27,8 +27,11 @@
 ## `Connect with me:`
 <p align="left">
 <a href="https://twitter.com/ombhagwat786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ombhagwat786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-bhagwat-64b103230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/Omkar Bhagwat](https://www.linkedin.com/in/omkar-bhagwat-64b103230/)" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-bhagwat-64b103230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-bhagwat-64b103230/" height="30" width="40" /></a>
+  
 <a href="https://fb.com/om bhagwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om bhagwat" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/mr.bhagwat4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.bhagwat4" height="30" width="40" /></a>
 </p>
 
