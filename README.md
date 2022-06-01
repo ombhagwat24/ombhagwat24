@@ -1,3 +1,5 @@
+<img align="top" alt="code"  height="300" width="1000" src = "https://dezinebrainz.com/images/web-design-gif.gif"> 
+
 ### Hi there 👋
 
 ## I'm a Data Science Enthusiast and a Learner, exploring everything...!
