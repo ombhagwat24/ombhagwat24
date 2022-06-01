@@ -1,6 +1,6 @@
 <img align="mid" alt="fill"  height="300" width="1000" src ="https://i0.wp.com/webcodeflow.com/wp-content/uploads/2021/04/Pixel-Banner.gif?fit=540%2C246&ssl=1">
 
-### Hi there 👋
+# Hi there 👋
 
 ## I'm a Data Science Enthusiast and a Learner, exploring everything...! 
 <img align="right" alt="code"  height="200" width="600" src = "https://dezinebrainz.com/images/web-design-gif.gif"> 
