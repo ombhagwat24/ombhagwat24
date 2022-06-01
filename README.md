@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-## I'm a Data Science Enthusiast and a Learner, exploring everything...!
-
-<img align="right" alt="code"  height="200" width="500" src = "https://dezinebrainz.com/images/web-design-gif.gif"> 
+## I'm a Data Science Enthusiast and a Learner, exploring everything...! 
+<img align="right" alt="code"  height="200" width="600" src = "https://dezinebrainz.com/images/web-design-gif.gif"> 
 
 - 🌱 Learning everything...
 
@@ -31,11 +30,12 @@
   <a href="https://fb.com/om bhagwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om bhagwat" height="30" width="40" /></a>
   <a href="https://instagram.com/mr.bhagwat4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.bhagwat4" height="30" width="40" /></a>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 </p>
 
-## 🏆 `Github Status`
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=flat" alt="ombhagwat24" /> </p>
+## `Github Status:`
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=flat" alt="ombhagwat24" width="10%" /> </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ombhagwat24&show_icons=true&hide_border=false&theme=black" width="48%" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ombhagwat24&theme=black" width="48%" >
