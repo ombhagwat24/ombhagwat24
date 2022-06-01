@@ -37,5 +37,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=flat" alt="ombhagwat24" width="10%" /> </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=ombhagwat24&show_icons=true&hide_border=false&theme=black" width="48%" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ombhagwat24&theme=black" width="48%" >
+<p align='left'>
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=ombhagwat24&show_icons=true&theme=tokyonight"/>
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ombhagwat24&theme=neon-palenight)](https://git.io/streak-stats)
