@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 👋☺️
 
-## I'm a Data Science Enthusiast and a Learner, exploring everything...! 
+#### `I'm a Data Science Enthusiast and a Learner, exploring everything...!` 
 <img align="right" alt="code"  height="200" width="600" src = "https://dezinebrainz.com/images/web-design-gif.gif"> 
 
 - 🌱 Learning everything...
@@ -32,7 +32,7 @@
 
 ## `Github Status:`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=flat" alt="ombhagwat24" width="10%" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=flat" alt="ombhagwat24" width="18%" /> </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align='left'>
