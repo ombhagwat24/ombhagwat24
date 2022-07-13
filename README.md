@@ -1,5 +1,3 @@
-<img align="mid" alt="fill"  height="300" width="1000" src ="https://i0.wp.com/webcodeflow.com/wp-content/uploads/2021/04/Pixel-Banner.gif?fit=540%2C246&ssl=1">
-
 # Hi there 👋
 
 ## I'm a Data Science Enthusiast and a Learner, exploring everything...! 
