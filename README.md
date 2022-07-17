@@ -14,7 +14,7 @@
 <img align="left" alt="Anaconda" height="40" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
 <img align="left" alt="SQL" height="40" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> 
 <img align="left" alt="SQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a> <a>
-href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> </a> <a
+<img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> </a> <a
 href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94888819/179420219-9ce785fd-b1eb-4caa-aebd-086c088d05f2.png" alt="vsc" width="40" height="40"/> </a> <a 
 href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" alt="github" width="40" height="40"/> </a> <a
 href="https://www.anaconda.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" alt="vsc" width="40" height="40"/> </a> <a 
