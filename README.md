@@ -11,13 +11,15 @@
 
 
 ## `Languages & Tools:`
-<img align="left" alt="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-visual-studio-code-2019.svg" />
-<img align="left" alt="Jupyter Notebook" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/jupyter_logo_icon_169452.svg" />
 <img align="left" alt="Anaconda" height="30" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
 <img align="left" alt="GitHub" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-github.svg" />
 <img align="left" alt="Terminal" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="SQL" height="30" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a 
+href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> </a> <a 
+href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94888819/179420219-9ce785fd-b1eb-4caa-aebd-086c088d05f2.png" alt="vsc" width="40" height="40"/> </a> <a 
+href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94888819/179420808-ce446247-c887-4e37-a5ee-f62cc291b3d9.gif" alt="github" width="40" height="40"/> </a> <a
+href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 ## `Connect with me:`
