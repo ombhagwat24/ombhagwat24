@@ -34,11 +34,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ## `Github Status:`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=circle" alt="ombhagwat24" width="16%" /> </p>
-<img src="https://user-images.githubusercontent.com/94888819/179504426-d5162b0f-b9a5-4f85-bb0c-4637e6c20308.gif" min-width="300px" max-width="300px" width="400px" align="right" alt="Comput">
-
-<p align='left'>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ombhagwat24&show_icons=true&theme=tokyonight"/>
-</p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ombhagwat24&theme=neon-palenight)](https://git.io/streak-stats)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=circle" alt="ombhagwat24" width="16%" /> </p>
+<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ombhagwat24&show_icons=true&theme=tokyonight"/> </p>
+<p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=ombhagwat24&theme=neon-palenight" width="50%"  alt="streak"> </p>
