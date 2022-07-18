@@ -1,7 +1,7 @@
 # Hi there 👋☺️
 
 #### `I'm a Data Science Enthusiast and a Learner, exploring everything...!` 
-<img align="right" alt="code"  height="200" width="600" src = "https://dezinebrainz.com/images/web-design-gif.gif"> 
+<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
 - 🌱 Learning everything...
 
@@ -35,7 +35,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 ## `Github Status:`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=flat" alt="ombhagwat24" width="18%" /> </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/94888819/179504426-d5162b0f-b9a5-4f85-bb0c-4637e6c20308.gif" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align='left'>
   <img width=50% src="https://github-readme-stats.vercel.app/api?username=ombhagwat24&show_icons=true&theme=tokyonight"/>
