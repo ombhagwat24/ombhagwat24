@@ -32,7 +32,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
   <a href="https://linkedin.com/in/omkar-bhagwat-64b103230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-bhagwat-64b103230/" height="30" width="40" /></a>
   <a href="https://fb.com/ombhagwat24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ombhagwat24" height="30" width="40" /></a>
   <a href="https://instagram.com/mr.bhagwat4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.bhagwat4" height="30" width="40" /></a>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&orgn=homepage&action=modalOpen&action=modalOpen" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94888819/179700460-34cbd4db-08df-44c6-8e38-ea2e039e77a4.png" alt="naukari" height="30" width="40" /></a>
+  <a href="https://www.naukri.com/nlogin/login" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94888819/179700460-34cbd4db-08df-44c6-8e38-ea2e039e77a4.png" alt="naukari" height="30" width="40" /></a>
 
 </p>
 
