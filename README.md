@@ -33,7 +33,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
   <a href="https://fb.com/ombhagwat24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ombhagwat24" height="30" width="40" /></a>
   <a href="https://instagram.com/mr.bhagwat4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.bhagwat4" height="30" width="40" /></a>
   <a href="https://www.naukri.com/nlogin/login" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94888819/179700460-34cbd4db-08df-44c6-8e38-ea2e039e77a4.png" alt="naukari" height="30" width="40" /></a>
-  <a href="https://ombhagwat24.github.io" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94888819/180596745-84b48126-4579-48fd-af30-d1188d6d9ef9.jpeg" alt="om" height="60" width="60" /></a>
+  <a href="https://flowcv.me/om-bhagwat" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94888819/180596745-84b48126-4579-48fd-af30-d1188d6d9ef9.jpeg" alt="om" height="60" width="60" /></a>
 
 
 </p>
