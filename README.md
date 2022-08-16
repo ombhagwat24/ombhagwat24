@@ -1,6 +1,6 @@
-# Hi there 👋☺️
+# Hey 👋☺️
 
-#### `I'm a Data Science Enthusiast and a Learner, exploring everything...!` 
+#### `I'm a Data Science Enthusiast and a Learner, exploring good things...!` 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
 - 🌱 Learning about new things...
@@ -8,7 +8,7 @@
 - ✨ Interests: Apart from Tech, I love to listen songs / cooking / gardening / Photography / gaming ...
 
 
-## `Languages & Tools:`
+## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
 <img align="left" alt="Anaconda" height="40" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
 <img align="left" alt="SQL" height="40" src="https://raw.githubusercontent.com/habc0d3r/0th-project/master/icons8-sql-96.png" /> <b>
@@ -25,16 +25,13 @@ href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://ra
 href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="40"/> </a> <a
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
-## `Connect with me:`
-  
-  <a href="https://flowcv.me/om-bhagwat" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94888819/180596745-84b48126-4579-48fd-af30-d1188d6d9ef9.jpeg" alt="om" height="60" width="60" /></a>
+#### `Connect with:` <a href="https://flowcv.me/om-bhagwat" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94888819/180596745-84b48126-4579-48fd-af30-d1188d6d9ef9.jpeg" alt="om" height="60" width="60" /></a>
 
 
 </p>
 
 
-## `Github Status:`
-
+## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ombhagwat24&label=Profile%20views&color=0e75b6&style=circle" alt="ombhagwat24" width="16%" /> </p>
 <p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ombhagwat24&show_icons=true&theme=tokyonight"/> </p>
 <p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=ombhagwat24&theme=neon-palenight" width="50%"  alt="streak"> </p>
