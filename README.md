@@ -1,7 +1,9 @@
 # Hey 👋☺️
 
 #### I'm a Data Science Enthusiast and a Learner, exploring good things...!
-<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
+<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/203079238-b17413aa-acba-4dea-8171-04c2a0961730.gif"> 
+
+
 
 - 🌱 Learning about new things...
 
